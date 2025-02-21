@@ -14,11 +14,11 @@ This Python script renames all files in a specified folder by adding a prefix an
 ## Installation
 1. Clone this repository:
    ```sh
-   git clone https://github.com/your-username/your-repo-name.git
+   https://github.com/sauravbytes/rename-files
    ```
 2. Navigate to the script directory:
    ```sh
-   cd your-repo-name
+   cd rename-files
    ```
 
 ## Usage
@@ -41,8 +41,5 @@ renamed_1.txt
 renamed_2.jpg
 renamed_3.pdf
 ```
-
-## License
-This project is licensed under the MIT License.
 
 
